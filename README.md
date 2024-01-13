@@ -27,8 +27,8 @@ The API will be accessible at http://localhost:8080
   - **Example request:**
     ```json
       {
-        "name" : "Dan"
-        "username" : "benderol"
+        "name" : "Dan",
+        "username" : "benderol",
         "password" : "pass"
       }
     ```
@@ -40,7 +40,7 @@ The API will be accessible at http://localhost:8080
   - **Example request:**
     ```json
       {
-        "oldPassword" : "pass"
+        "oldPassword" : "pass",
         "newPassword" : "password"
       }
     ```
@@ -64,8 +64,8 @@ The API will be accessible at http://localhost:8080
   - **Example request:**
     ```json
       {
-        "filmTitle" : "Matrix"
-        "userOpinion" : "One of the best  films ever"
+        "filmTitle" : "Matrix",
+        "userOpinion" : "One of the best  films ever",
         "mark" : "4"
       }
     ```
